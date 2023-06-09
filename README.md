@@ -1,5 +1,7 @@
 # Cara membuat kalkulator dengan HTML, CSS, JavaScript
 
+Demo: https://masharun.github.io/Kalkulator-dengan-JavaScript/
+
 
 Cukup menggunakan HTML dan sedikit pemahaman tentang CSS kita bisa membuat kalkulator dengan tampilan yang menarik. Semua fungsi dalam kalkulator didasarkan pada kalkulator dasar, ada beberapa operasi dasar berupa penjumlahan, pengurangan, perkalian, pembagian dan hapus. Jika Anda dapat membuat aplikasi sederhana ini, artinya Anda sedang membangun aplikasi berbasis web.
 
